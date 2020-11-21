@@ -9,13 +9,13 @@ package hadoop;
  *
  * @author 11988
  */
-public class Hadoop {
+public class test1_1_1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("hhhh");
     }
     
 }
