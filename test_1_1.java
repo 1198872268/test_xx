@@ -9,7 +9,7 @@ package hadoop;
  *
  * @author 11988
  */
-public class test1_1_1 {
+public class test_1_1 {
 
     /**
      * @param args the command line arguments
