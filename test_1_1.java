@@ -18,6 +18,7 @@ public class test_1_1 {
         System.out.println("hhhh");
         System.out.println("hh");
         System.out.println("h");
+        System.out.println("¡£");
     }
     
 }
